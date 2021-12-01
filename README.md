@@ -4,7 +4,7 @@
 
 [week13](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week13)
 + ✅ Programmers 코딩테스트 고득점 Kit - 정렬:H-Index
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/H-Index.java)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/HIndex.java)
 + ✅ Programmers BOJ - 정렬: 시리얼 번호 
 + [문제보기](https://www.acmicpc.net/problem/1431) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/시리얼번호.java)
 

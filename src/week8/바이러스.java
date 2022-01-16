@@ -1,6 +1,9 @@
 package week8;
 import java.util.Arrays;
 import java.util.Scanner;
+
+
+// 18,040KB , 244ms
 public class 바이러스 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -27,5 +30,3 @@ public class 바이러스 {
 		}
 	}
 }
-
-// 18,040KB , 244ms

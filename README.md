@@ -11,7 +11,7 @@
 [week8](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week8)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 여행경로
 + https://programmers.co.kr/learn/courses/30/lessons/43164
-+ ✅ BOJ
++ ✅ BOJ - 백준 - 2606번 바이러스
 + https://www.acmicpc.net/problem/2606
 
 [week7](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week7)

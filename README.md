@@ -2,6 +2,12 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week9](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week9)
++ ✅ 프로그래머스 - 해시: 완주하지 못한 선수
++ https://programmers.co.kr/learn/courses/30/lessons/42576
++ ✅ 프로그래머스 - 해시: 전화번호 목록
++ https://programmers.co.kr/learn/courses/30/lessons/42577
+
 [week8](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week8)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 여행경로
 + https://programmers.co.kr/learn/courses/30/lessons/43164

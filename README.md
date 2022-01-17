@@ -26,12 +26,17 @@
 
 [week5](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week5)
 + ✅ 프로그래머스  모의고사
++ https://programmers.co.kr/learn/courses/30/lessons/42840
 + ✅ 프로그래머스  소수찾기
++ https://programmers.co.kr/learn/courses/30/lessons/42839
 + ✅ 프로그래머스  카펫
++ https://programmers.co.kr/learn/courses/30/lessons/42842
 
 [week4](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week4)
 + ✅ 최단경로
-+ ✅ 합승택시요금
++ https://www.acmicpc.net/problem/1753
++ ✅ 합승택시요금 [KAKAO]
++ https://programmers.co.kr/learn/courses/30/lessons/72413
 
 [week3](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week3)
 * ✅ 기본: 1920 수 찾기

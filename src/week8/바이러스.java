@@ -21,6 +21,7 @@ public class 바이러스 {
 		for(Boolean a : flag)
 			if(a) ans++;
 		System.out.println(ans-1);
+		sc.close();
 	}
 	private static void dfs(int idx, Boolean[] flag,int networks[][]) {
 		flag[idx-1] = true;

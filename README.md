@@ -4,22 +4,22 @@
 
 [week10](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week10)
 + ✅ 프로그래머스 - 해시: 위장 
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42578)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42578) / [풀이보기]
 + ✅ 프로그래머스 - 해시: 베스트앨범
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42579)
 
 
 [week9](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week09)
 + ✅ 프로그래머스 - 해시: 완주하지 못한 선수
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42576)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42576) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week08/완주하지못한선수.java)
 + ✅ 프로그래머스 - 해시: 전화번호 목록
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42577)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42577) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week09/전화번호목록.java)
 
 [week8](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week08)
-+ ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 여행경로
++ ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 여행경로 / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week08/여행경로.java)
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43164)
-+ ✅ BOJ - 백준 - 2606번 바이러스 [풀이](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week08/바이러스.java)
-+ [문제보기](https://www.acmicpc.net/problem/2606)
++ ✅ BOJ - 백준 - 2606번 바이러스 
++ [문제보기](https://www.acmicpc.net/problem/2606) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week08/바이러스.java)
 
 [week7](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week07)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 네트워크
@@ -43,7 +43,7 @@
 + ✅ 최단경로
 + [문제보기](https://www.acmicpc.net/problem/1753)
 + ✅ 합승택시요금 [KAKAO]
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/72413
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/72413)
 
 [week3](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week03)
 * ✅ 기본: 1920 수 찾기

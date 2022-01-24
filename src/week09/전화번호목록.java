@@ -1,4 +1,4 @@
-package week9;
+package week09;
 
 /**
  * 정확성  테스트
@@ -36,6 +36,7 @@ package week9;
  */
 
 import java.util.Arrays;
+import java.util.HashSet;
 
 public class 전화번호목록 {
     public static boolean solution(String[] phone_book) {
@@ -52,7 +53,6 @@ public class 전화번호목록 {
 
         return answer;
     }
-}
 //--------------------------------------------------------
 // HashSet으로 접근해본 문제
 	/*

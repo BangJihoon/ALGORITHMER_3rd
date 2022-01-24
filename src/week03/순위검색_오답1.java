@@ -1,4 +1,4 @@
-package week3;
+package week03;
 
 public class 순위검색_오답1 {
 	public static void main(String[] args) {

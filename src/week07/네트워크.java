@@ -1,4 +1,4 @@
-package week7;
+package week07;
 
 public class 네트워크{
     static int ans=0;		

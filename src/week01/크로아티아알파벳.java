@@ -1,4 +1,4 @@
-package week1;
+package week01;
 
 import java.util.Scanner;
 // 백준은 Scanner를 사용하여 표준입력을 직접 넣어보는 함수코드이고

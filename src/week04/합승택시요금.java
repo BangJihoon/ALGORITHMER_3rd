@@ -1,4 +1,4 @@
-package week4;
+package week04;
 /*
 
 정확성  테스트

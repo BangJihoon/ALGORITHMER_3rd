@@ -1,4 +1,4 @@
-package week4;
+package week04;
 // 133928 KB 	1236 ms
 import java.io.BufferedReader;
 import java.io.IOException;

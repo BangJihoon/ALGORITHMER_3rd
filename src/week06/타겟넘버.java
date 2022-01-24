@@ -1,4 +1,4 @@
-package week6;
+package week06;
 
 public class 타겟넘버 {
     static int answer=0;

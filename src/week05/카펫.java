@@ -1,4 +1,4 @@
-package week5;
+package week05;
 
 public class 카펫 {
 	public static void main(String[] args) {

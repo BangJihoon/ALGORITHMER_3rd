@@ -4,9 +4,9 @@
 
 [week10](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week10)
 + ✅ 프로그래머스 - 해시: 위장 
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42578) / [풀이보기]
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42578) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week10/위장.java)
 + ✅ 프로그래머스 - 해시: 베스트앨범
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42579)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42579) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week10/베스트앨범.java)
 
 
 [week9](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week09)

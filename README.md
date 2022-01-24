@@ -3,7 +3,7 @@
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
 [week10](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week10)
-+ ✅ 프로그래머스 - 해시: 위장
++ ✅ 프로그래머스 - 해시: 위장 
 + https://programmers.co.kr/learn/courses/30/lessons/42578
 + ✅ 프로그래머스 - 해시: 베스트앨범
 + https://programmers.co.kr/learn/courses/30/lessons/42579
@@ -18,7 +18,7 @@
 [week8](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week08)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 여행경로
 + https://programmers.co.kr/learn/courses/30/lessons/43164
-+ ✅ BOJ - 백준 - 2606번 바이러스
++ ✅ BOJ - 백준 - 2606번 바이러스 [풀이](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week08/바이러스.java)
 + https://www.acmicpc.net/problem/2606
 
 [week7](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week07)

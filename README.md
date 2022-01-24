@@ -2,6 +2,13 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week10](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week10)
++ ✅ 프로그래머스 - 해시: 위장
++ https://programmers.co.kr/learn/courses/30/lessons/42578
++ ✅ 프로그래머스 - 해시: 베스트앨범
++ https://programmers.co.kr/learn/courses/30/lessons/42579
+
+
 [week9](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week09)
 + ✅ 프로그래머스 - 해시: 완주하지 못한 선수
 + https://programmers.co.kr/learn/courses/30/lessons/42576

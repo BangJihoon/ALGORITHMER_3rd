@@ -40,7 +40,7 @@ public class 베스트앨범 {
     	Map<String , Integer> map = new HashMap<>();
     	ArrayList<Song> Songlist = new ArrayList<>();
     	
-    	// 장르별 plays수 합계후 정렬
+    	// 장르별 plays수 저장, 곡정보 저장
     	for(int i=0;i<plays.length;i++) {
     		map.put(genres[i], map.getOrDefault(genres[i],0) + plays[i]);
     		Songlist.add(new Song(genres[i] ,i ,plays[i]));

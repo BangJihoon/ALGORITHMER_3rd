@@ -2,6 +2,12 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week11](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week11)
++ ✅ BOJ - 해시: 나는야 포켓몬 마스터 이다솜
++ [문제보기](https://www.acmicpc.net/problem/1620) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/나는야포켓몬마스터이다솜.java)
++ ✅ BOJ - 해시: 서로 다른 부분 문자열의 개수
++ [문제보기](https://www.acmicpc.net/problem/11478) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/서로다른부분문자열개수.java)
+
 [week10](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week10)
 + ✅ 프로그래머스 - 해시: 위장 
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42578) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week10/위장.java)

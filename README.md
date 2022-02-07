@@ -2,6 +2,12 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week12](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week12)
++ ✅ Programmers 코딩테스트 고득점 Kit - 정렬: K번째수
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/K번째수.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 정렬: 가장 큰 수
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42746) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/가장큰수.java)
+
 [week11](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week11)
 + ✅ BOJ - 해시: 나는야 포켓몬 마스터 이다솜
 + [문제보기](https://www.acmicpc.net/problem/1620) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/나는야포켓몬마스터이다솜.java)

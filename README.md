@@ -4,9 +4,9 @@
 
 [week12](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week12)
 + ✅ Programmers 코딩테스트 고득점 Kit - 정렬: K번째수
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/K번째수.java)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week12/K번째수.java)
 + ✅ Programmers 코딩테스트 고득점 Kit - 정렬: 가장 큰 수
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42746) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/가장큰수.java)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42746) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week12/가장큰수.java)
 
 [week11](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week11)
 + ✅ BOJ - 해시: 나는야 포켓몬 마스터 이다솜

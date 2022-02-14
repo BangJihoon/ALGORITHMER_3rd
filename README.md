@@ -2,6 +2,13 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week13](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week13)
++ ✅ Programmers 코딩테스트 고득점 Kit - 정렬:H-Index
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/H-Index.java)
++ ✅ Programmers BOJ - 정렬: 시리얼 번호 
++ [문제보기](https://www.acmicpc.net/problem/1431) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/시리얼번호.java)
+
+
 [week12](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week12)
 + ✅ Programmers 코딩테스트 고득점 Kit - 정렬: K번째수
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week12/K번째수.java)

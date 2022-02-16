@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week2">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="정렬 공부">
+      <change afterPath="$PROJECT_DIR$/src/Sorting/ArraySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/ClassSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
   <component name="ReaderModeSettings">
     <option name="showWarnings" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HIndex">
+  <component name="RunManager" selected="Application.ArraySort">
     <configuration name="가장큰수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week12.가장큰수" />
       <module name="ALGORITHMER_3rd" />
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week13.HIndex" />
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.ArraySort" />
       <module name="ALGORITHMER_3rd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week13.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +76,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K번째수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week12.K번째수" />
+    <configuration name="ClassSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.ClassSort" />
       <module name="ALGORITHMER_3rd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week12.*" />
+          <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week13.HIndex" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,10 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySort" />
+        <item itemvalue="Application.ClassSort" />
         <item itemvalue="Application.HIndex" />
         <item itemvalue="Application.가장큰수" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.K번째수" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644908182582</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="설정파일 추가">
+      <created>1644916941389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644916941389</updated>
+    </task>
+    <task id="LOCAL-00009" summary="설정파일 추가">
+      <created>1644917149814</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644917149814</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,7 +251,9 @@
     <MESSAGE value="init" />
     <MESSAGE value="week1" />
     <MESSAGE value="week2" />
-    <option name="LAST_COMMIT_MESSAGE" value="week2" />
+    <MESSAGE value="설정파일 추가" />
+    <MESSAGE value="정렬 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="정렬 공부" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

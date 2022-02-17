@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.Comparator;
 // 15,460 kb , 140 ms
 public class 시리얼번호 {
     public static void main(String[] args) throws IOException {
@@ -13,11 +12,11 @@ public class 시리얼번호 {
         String[] arr = new String[n];
         for(int i=0;i<n;i++) arr[i] = br.readLine();
         Arrays.sort(arr, (o1, o2) -> {
-            if(o1.length() - o2.length()==0){
+            if(o1.length() - o2.length()==0){   // 1. 길이비교
                 int a = getSum(o1);
                 int b = getSum(o2);
-                if(a - b == 0){
-                    return o1.compareTo(o2);
+                if(a - b == 0){                 // 2. 문자열에 숫자값의 합 비교
+                    return o1.compareTo(o2);    // 3. 알파벳 순서 = 문자열 비교
                 }
                 else {
                     return a - b;

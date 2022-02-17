@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week13/HIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week13/HIndex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week13/시리얼번호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week13/시리얼번호.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645070961217</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="week13">
+      <created>1645071158288</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645071158288</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

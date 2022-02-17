@@ -12,7 +12,7 @@ public class 시리얼번호 {
         String[] arr = new String[n];
         for(int i=0;i<n;i++) arr[i] = br.readLine();
         Arrays.sort(arr, (o1, o2) -> {
-            if(o1.length() - o2.length()==0){   // 1. 길이비교
+            if((o1.length() - o2.length()) == 0){   // 1. 길이비교
                 int a = getSum(o1);
                 int b = getSum(o2);
                 if(a - b == 0){                 // 2. 문자열에 숫자값의 합 비교

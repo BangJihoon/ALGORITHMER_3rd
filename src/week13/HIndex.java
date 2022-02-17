@@ -3,6 +3,9 @@ package week13;
 import java.util.*;
 import java.util.Arrays;
 import java.util.Comparator;
+
+import static java.lang.Math.min;
+
 /*
 // 내 코드
 * 정확성  테스트
@@ -29,11 +32,10 @@ public class HIndex {
         int hindex = citations.length;
         while(hindex>=0) { //hindex의 값의 범위는 0 ~ 발표한 논문수 사이이다.
             int cnt = 0;
-            for (Integer integer : tmp) {
+            for (Integer integer : tmp)
                 if (integer >= hindex) // h번 이상 인용되었으면 count
                     cnt++;
                 else break; // 아닌 순간에는 내림으로 정렬되어 있으므로 뒤는 더 볼 필요 없다.
-            }
             if (hindex <= cnt) // h이상 인용된 논문이 h이상 이면
                 return hindex;
             hindex--;
@@ -64,7 +66,7 @@ public class HIndex {
         Arrays.sort(citations);
         int max = 0;
         for(int i = citations.length-1; i >= 0; i--){
-            int min = Math.min(citations[i], citations.length - i);
+            int min = min(citations[i], citations.length - i);
             if(max < min) max = min;
         }
         return max;

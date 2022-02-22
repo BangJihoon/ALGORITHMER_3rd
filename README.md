@@ -7,7 +7,7 @@
 + ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 기능개발
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42586) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week14/기능개발.java)
 + ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 프린터 
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42587 / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week14/프린터.java)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42587) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week14/프린터.java)
 
 [week13](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week13)
 + ✅ Programmers 코딩테스트 고득점 Kit - 정렬:H-Index

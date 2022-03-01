@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ALGORITHMER_3rd.iml" filepath="$PROJECT_DIR$/ALGORITHMER_3rd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/ALGORITHMER_3rd.iml" filepath="$PROJECT_DIR$/src/ALGORITHMER_3rd.iml" />
     </modules>
   </component>
 </project>

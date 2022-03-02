@@ -2,47 +2,91 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
-[week8](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week8)
+[week14](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week14)
+
++ ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 기능개발
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42586) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week14/기능개발.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 프린터 
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42587) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week14/프린터.java)
+
+[week13](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week13)
++ ✅ Programmers 코딩테스트 고득점 Kit - 정렬:H-Index
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/HIndex.java)
++ ✅ Programmers BOJ - 정렬: 시리얼 번호 
++ [문제보기](https://www.acmicpc.net/problem/1431) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/시리얼번호.java)
+
+
+[week12](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week12)
++ ✅ Programmers 코딩테스트 고득점 Kit - 정렬: K번째수
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week12/K번째수.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 정렬: 가장 큰 수
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42746) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week12/가장큰수.java)
+
+[week11](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week11)
++ ✅ BOJ - 해시: 나는야 포켓몬 마스터 이다솜
++ [문제보기](https://www.acmicpc.net/problem/1620) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/나는야포켓몬마스터이다솜.java)
++ ✅ BOJ - 해시: 서로 다른 부분 문자열의 개수
++ [문제보기](https://www.acmicpc.net/problem/11478) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/서로다른부분문자열개수.java)
+
+[week10](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week10)
++ ✅ 프로그래머스 - 해시: 위장 
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42578) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week10/위장.java)
++ ✅ 프로그래머스 - 해시: 베스트앨범
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42579) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week10/베스트앨범.java)
+
+
+[week9](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week09)
++ ✅ 프로그래머스 - 해시: 완주하지 못한 선수
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42576) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week09/완주하지못한선수.java)
++ ✅ 프로그래머스 - 해시: 전화번호 목록
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42577) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week09/전화번호목록.java)
+
+[week8](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week08)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 여행경로
-+ https://programmers.co.kr/learn/courses/30/lessons/43164
-+ ✅ BOJ
-+ https://www.acmicpc.net/problem/2606
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43164) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week08/여행경로.java)
++ ✅ BOJ - 백준 - 2606번 바이러스 
++ [문제보기](https://www.acmicpc.net/problem/2606) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week08/바이러스.java)
 
-[week7](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week7)
+[week7](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week07)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 네트워크
-+ https://programmers.co.kr/learn/courses/30/lessons/43162
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43162) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week07/네트워크.java)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 단어 변환
-+ https://programmers.co.kr/learn/courses/30/lessons/43163
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43163) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week07/단어변환.java)
 
-[week6](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week6)
+[week6](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week06)
 + ✅ 프로그래머스 - 깊이/너비 우선 탐색(DFS/BFS): 타겟 넘버
-+ https://programmers.co.kr/learn/courses/30/lessons/43165
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43165) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week06/타겟넘버.java)
 
-[week5](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week5)
+[week5](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week05)
 + ✅ 프로그래머스  모의고사
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42840) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week05/모의고사.java)
 + ✅ 프로그래머스  소수찾기
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42839) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week05/소수찾기.java)
 + ✅ 프로그래머스  카펫
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42842) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week05/카펫.java)
 
-[week4](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week4)
+[week4](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week04)
 + ✅ 최단경로
-+ ✅ 합승택시요금
++ [문제보기](https://www.acmicpc.net/problem/1753) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week04/최단경로.java)
++ ✅ 합승택시요금 [KAKAO]
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/72413) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week04/합승택시요금.java)
 
-[week3](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week3)
+[week3](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week03)
 * ✅ 기본: 1920 수 찾기
-* [문제 보기](https://www.acmicpc.net/problem/1920)
+* [문제보기](https://www.acmicpc.net/problem/1920) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week03/수찾기.java)
 * ✅ 심화: 2021 카카오 문제3 - 순위검색
-* [문제 보기](https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1/)
+* [문제보기](https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1/) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week03/순위검색.java)
      
-[week2](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week2)
+[week2](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week02)
 * ✅ 기본: 그룹단어체커
-* [문제 보기](https://www.acmicpc.net/problem/1316)
+* [문제보기](https://www.acmicpc.net/problem/1316) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week02/그룹단어체커.java)
 * ✅ 심화: 2021 카카오 문제2 - 메뉴리뉴얼
-* [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/72411)
+* [문제보기](https://programmers.co.kr/learn/courses/30/lessons/72411) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week02/메뉴리뉴얼.java)
 
-[week1](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week1)
+[week1](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week01)
 * ✅ 기본: 백준 문자열 부분 - 2941번 크로아티아 알파벳 
-* [문제 보기](https://www.acmicpc.net/problem/2941)
+* [문제보기](https://www.acmicpc.net/problem/2941) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week01/크로아티아알파벳.java)
 * ✅ 심화: 2021 카카오 신입공채 1차 온라인 코딩 테스트 -문제1- 아이디 추천
-* [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/72410)
+* [문제보기](https://programmers.co.kr/learn/courses/30/lessons/72410) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week01/아이디추천.java)
 
 

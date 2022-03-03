@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="오랫만에 집에서 풀려고하니깐 왜이러니">
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week15 - 주식가격 (완전탐색, Stack) ★★★">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week15/주식가격.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week15/주식가격.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645078234318</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="week15 - 주식가격 (완전탐색, Stack) ★★★">
+      <created>1646290859001</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1646290859001</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +326,8 @@
     <MESSAGE value="설정파일 추가" />
     <MESSAGE value="정렬 공부" />
     <MESSAGE value="week13" />
-    <option name="LAST_COMMIT_MESSAGE" value="week13" />
+    <MESSAGE value="week15 - 주식가격 (완전탐색, Stack) ★★★" />
+    <option name="LAST_COMMIT_MESSAGE" value="week15 - 주식가격 (완전탐색, Stack) ★★★" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

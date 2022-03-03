@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week15 - xml무시좀 해줘라">
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week15 - md 수정">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646291398867</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="week15 - md 수정">
+      <created>1646291602120</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1646291602120</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,7 +341,8 @@
     <MESSAGE value="week13" />
     <MESSAGE value="week15 - 주식가격 (완전탐색, Stack) ★★★" />
     <MESSAGE value="week15 - xml무시좀 해줘라" />
-    <option name="LAST_COMMIT_MESSAGE" value="week15 - xml무시좀 해줘라" />
+    <MESSAGE value="week15 - md 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="week15 - md 수정" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

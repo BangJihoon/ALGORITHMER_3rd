@@ -36,21 +36,14 @@ public class 더맵게 {
         // 우선순위큐 초기화
         for(int i : scoville)
             pq.add(i);
-
         int result,count=0;
-
         // 2개를 하나로 만듬
-        while(pq.size()>=2) { // 2개 이상인 경우만 가능하므로
-            if(pq.peek() >= K) // 제일작은값이 k를 넘으면 종료
-                return count;
+        while(pq.peek() < K) {
+            if(pq.size() <2) return -1; // 다 섞어도 제일 작은값이 k를 못넘으면 -1
             pq.add(pq.poll() + (pq.poll()*2));
             count++;
         }
-        if(pq.peek() >= K)
-            return count;
-
-        // 다 섞어도 제일 작은값이 k를 못넘으면
-        return -1;
+        return count;
     }
 
 }

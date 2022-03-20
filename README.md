@@ -2,6 +2,13 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week17](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week17)
++ ✅ Programmers 코딩테스트 고득점 Kit - 힙 : 
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42628) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week16/이중우선순위큐.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 체육복
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42862) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week17/체육복.java)
+
+
 [week16](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week16)
 + ✅ Programmers 코딩테스트 고득점 Kit - 힙 : 더 맵게
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42626) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week16/더맵게.java)

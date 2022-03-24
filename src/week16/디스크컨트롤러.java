@@ -31,7 +31,6 @@ public class 디스크컨트롤러 {
         return total / jobs.length;
     }
 }
-
 class Disk implements Comparable{
     int stime;
     int duration;
@@ -47,3 +46,4 @@ class Disk implements Comparable{
         return duration - disk.duration;
     }
 }
+

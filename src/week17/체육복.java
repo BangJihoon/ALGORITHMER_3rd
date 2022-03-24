@@ -9,7 +9,6 @@ public class 체육복 {
             people[l-1]--;
         for (int r : reserve)
             people[r-1]++;
-
         for (int i = 0; i < people.length; i++) {
             if(people[i] == -1) {
                 if(i-1>=0 && people[i-1] == 1) {

@@ -39,7 +39,7 @@ public class 더맵게 {
         int result,count=0;
         // 2개를 하나로 만듬
         while(pq.peek() < K) {
-            if(pq.size() <2) return -1; // 다 섞어도 제일 작은값이 k를 못넘으면 -1
+            if(pq.size() <2) return -1; // 섞을수 없는 경우 -1
             pq.add(pq.poll() + (pq.poll()*2));
             count++;
         }

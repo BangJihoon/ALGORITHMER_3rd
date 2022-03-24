@@ -44,4 +44,12 @@ public class 이중우선순위큐 {
         }
         return answer;
     }
+
+    public static void main(String[] args) {
+        String[] oper = {"I 7","I 5","I -5","D -1"};
+        int[] res = solution(oper);
+        for (int i = 0; i < res.length; i++) {
+            System.out.println(res[i]);
+        }
+    }
 }

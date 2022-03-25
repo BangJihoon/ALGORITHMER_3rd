@@ -1,36 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ChangeListManager">
-    <list default="true" id="444ca7dc-2ec4-45cb-b12b-a023556cbd5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ALGORITHMER_3rd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ALGORITHMER_3rd.iml" afterDir="false" />
-=======
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week16-17 - 힙 문제 재풀이">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week17 체육복 재풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week16/디스크컨트롤러.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week16/디스크컨트롤러.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week17/이중우선순위큐.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week17/이중우선순위큐.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week17/체육복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week17/체육복.java" afterDir="false" />
->>>>>>> 45b89c7646c8b2dc7a50d4ced29ebecc3fa220e2
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -46,40 +27,10 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
->>>>>>> 45b89c7646c8b2dc7a50d4ced29ebecc3fa220e2
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-<<<<<<< HEAD
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="24dfkA96WnVYYIMt4JOyGMtXulg" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
-    <option name="showVisibilityIcons" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring-core" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
-  </component>
-  <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-11.0.13" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="ALGORITHMER_3rd" />
-=======
   <component name="ProjectId" id="24lF1pk2wumyn2n5FBhAr4sZQhp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -100,7 +51,7 @@
   <component name="ReaderModeSettings">
     <option name="showWarnings" value="true" />
   </component>
-  <component name="RunManager" selected="Application.디컨1">
+  <component name="RunManager" selected="Application.ArraySort">
     <configuration name="프린터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wekk14.프린터" />
       <module name="ALGORITHMER_3rd" />
@@ -110,13 +61,10 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
->>>>>>> 45b89c7646c8b2dc7a50d4ced29ebecc3fa220e2
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-=======
     <configuration name="디컨1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week16.디컨1" />
       <module name="ALGORITHMER_3rd" />
@@ -149,6 +97,58 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="디스크컨트롤러" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week16.디스크컨트롤러" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="주식가격" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.주식가격" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week17.체육복" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="다리를지나는트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.다리를지나는트럭" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,45 +234,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="디스크컨트롤러" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week16.디스크컨트롤러" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="주식가격" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.주식가격" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="다리를지나는트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.다리를지나는트럭" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.디컨1" />
@@ -281,19 +242,10 @@
         <item itemvalue="Application.ArraySort" />
       </list>
     </recent_temporary>
->>>>>>> 45b89c7646c8b2dc7a50d4ced29ebecc3fa220e2
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="444ca7dc-2ec4-45cb-b12b-a023556cbd5b" name="Changes" comment="" />
-      <created>1643965525032</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1643965525032</updated>
-    </task>
-=======
       <changelist id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="" />
       <created>1644197058601</created>
       <option name="number" value="Default" />
@@ -482,8 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648137817633</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
->>>>>>> 45b89c7646c8b2dc7a50d4ced29ebecc3fa220e2
+    <task id="LOCAL-00027" summary="week17 체육복 재풀이">
+      <created>1648192352315</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1648192352315</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -491,9 +449,6 @@
       <map>
         <entry key="MAIN">
           <value>
-<<<<<<< HEAD
-            <State />
-=======
             <State>
               <option name="FILTERS">
                 <map>
@@ -524,13 +479,10 @@
                 </map>
               </option>
             </State>
->>>>>>> 45b89c7646c8b2dc7a50d4ced29ebecc3fa220e2
           </value>
         </entry>
       </map>
     </option>
-<<<<<<< HEAD
-=======
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="b88f6de0-a954-4b1d-93a4-10ae660eec59" value="TOOL_WINDOW" />
@@ -556,7 +508,8 @@
     <MESSAGE value="week18 - 조이스틱 리팩토링" />
     <MESSAGE value="week18 - 큰수만들기" />
     <MESSAGE value="week16-17 - 힙 문제 재풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="week16-17 - 힙 문제 재풀이" />
+    <MESSAGE value="week17 체육복 재풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="week17 체육복 재풀이" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
@@ -566,6 +519,5 @@
     <SUITE FILE_PATH="coverage/ALGORITHMER_3rd$K.ic" NAME="K번째수 Coverage Results" MODIFIED="1644198300802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>week12.*</FILTER>
     </SUITE>
->>>>>>> 45b89c7646c8b2dc7a50d4ced29ebecc3fa220e2
   </component>
 </project>

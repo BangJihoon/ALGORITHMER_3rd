@@ -2,11 +2,52 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week18](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week18)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 조이스틱
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42860?language=java) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week18/조이스틱.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 큰수만들기
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42883) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week18/큰수만들기.java)
+
+[week17](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week17)
++ ✅ Programmers 코딩테스트 고득점 Kit - 힙 : 이중우선순위큐
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42628) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week17/이중우선순위큐.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 체육복
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42862) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week17/체육복.java)
+
+
+[week16](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week16)
++ ✅ Programmers 코딩테스트 고득점 Kit - 힙 : 더 맵게
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42626) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week16/더맵게.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 힙 : 디스크 컨트롤러
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42627) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week16/디스크컨트롤러.java)
+
+
+[week15](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week15)
++ ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 다리를 지나는 트럭
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42583) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week15/다리를지나는트럭.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 주식가격
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42584) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week15/주식가격.java)
+
+
+[week14](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week14)
++ ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 기능개발
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42586) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week14/기능개발.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 스택/큐: 프린터
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42587) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week14/프린터.java)
+
+
+[week13](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week13)
++ ✅ Programmers 코딩테스트 고득점 Kit - 정렬:H-Index
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42747) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/HIndex.java)
++ ✅ Programmers BOJ - 정렬: 시리얼 번호 
++ [문제보기](https://www.acmicpc.net/problem/1431) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week13/시리얼번호.java)
+
+
 [week12](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week12)
 + ✅ Programmers 코딩테스트 고득점 Kit - 정렬: K번째수
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/K번째수.java)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42748) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week12/K번째수.java)
 + ✅ Programmers 코딩테스트 고득점 Kit - 정렬: 가장 큰 수
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42746) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week11/가장큰수.java)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42746) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week12/가장큰수.java)
 
 [week11](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week11)
 + ✅ BOJ - 해시: 나는야 포켓몬 마스터 이다솜

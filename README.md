@@ -2,11 +2,18 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week19](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week19)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 구명보트
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42885) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/구명보트.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 섬 연결하기
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42861) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/섬연결하기.java)
+
 [week18](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week18)
 + ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 조이스틱
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42860?language=java) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week18/조이스틱.java)
 + ✅ Programmers 코딩테스트 고득점 Kit - 그리디 큰수만들기
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42883) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week18/큰수만들기.java)
+
 
 [week17](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week17)
 + ✅ Programmers 코딩테스트 고득점 Kit - 힙 : 이중우선순위큐

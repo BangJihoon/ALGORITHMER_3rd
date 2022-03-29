@@ -4,9 +4,9 @@
 
 [week19](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week19)
 + ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 구명보트
-+ [문제보기]() / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/구명보트.java)
-+ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 섬연결하기
-+ [문제보기]() / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/섬연결하기.java)
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42885) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/구명보트.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 섬 연결하기
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42861) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/섬연결하기.java)
 
 [week18](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week18)
 + ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 조이스틱

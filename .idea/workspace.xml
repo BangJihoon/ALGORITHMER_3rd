@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week17 체육복 재풀이">
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week19 그리디 init">
+      <change afterPath="$PROJECT_DIR$/src/week19/구명보트.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week19/섬연결하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +100,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week17.이중우선순위큐" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="더맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week16.더맵게" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,32 +230,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week17.이중우선순위큐" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="더맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week16.더맵게" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,7 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648192352315</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="week17 체육복 재풀이">
+      <created>1648192861060</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1648192861060</updated>
+    </task>
+    <task id="LOCAL-00029" summary="week1 체육복 재풀이">
+      <created>1648514867768</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1648514867768</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -509,7 +526,8 @@
     <MESSAGE value="week18 - 큰수만들기" />
     <MESSAGE value="week16-17 - 힙 문제 재풀이" />
     <MESSAGE value="week17 체육복 재풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="week17 체육복 재풀이" />
+    <MESSAGE value="week19 그리디 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="week19 그리디 init" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

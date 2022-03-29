@@ -2,6 +2,13 @@ package week19;
 
 import java.util.*;
 
+/*
+- 무게범위 40-240kg
+- 1< n < 50,000 명
+- 문제 : 제한무게가 존재하는 2명씩 탈수있는 보트에
+        input된 사람들을 모두 실는 최소로 보트의 수를 구하는 문제
+- 제한 : 제한무게보다 큰사람은 input되지 않음
+* */
 public class 구명보트 {
     public static void main(String[] args) {
         //int[] people = {70, 50, 80, 50};
@@ -9,14 +16,7 @@ public class 구명보트 {
         int limit = 10;
         System.out.println(solution(people,limit));
     }
-    /*
-    - 무게범위 40-240kg
-    - 1< n < 50,000 명
-    - 문제 : 제한무게가 존재하는 2명씩 탈수있는 보트에
-            input된 사람들을 모두 실는 최소로 보트의 수를 구하는 문제
-    - 제한 : 제한무게보다 큰사람은 input되지 않음
-    - 결과
-정확성  테스트
+/*정확성  테스트
 테스트 1 〉	통과 (1.85ms, 75.5MB)
 테스트 2 〉	통과 (1.51ms, 79.2MB)
 테스트 3 〉	통과 (1.98ms, 75.8MB)
@@ -38,7 +38,7 @@ public class 구명보트 {
 테스트 3 〉	통과 (11.11ms, 53.8MB)
 테스트 4 〉	통과 (7.63ms, 54.4MB)
 테스트 5 〉	통과 (8.68ms, 53.4MB)
-* */
+*/
     public static int solution(int[] people, int limit) {
         Arrays.sort(people); // 배열 정렬
         int result=0;

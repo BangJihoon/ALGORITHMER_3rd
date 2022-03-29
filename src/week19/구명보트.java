@@ -1,5 +1,7 @@
 package week19;
 
+import java.util.ArrayDeque;
+import java.util.Arrays;
 import java.util.*;
 
 /*
@@ -76,14 +78,17 @@ public class 구명보트 {
 테스트 5 〉	통과 (23.05ms, 55.8MB)
 */
     public static int solution2(int[] people, int limit) {
-        Arrays.sort(people); // 배열 정렬
-        int result=0;
-        int idx=0;
-        for (int i = people.length-1; i >= idx; i--) {
-            if(limit - people[i] >= people[idx])
-                idx++;
-            result++;
+        int ans = 0;
+        ArrayDeque<Integer> dq = new ArrayDeque<Integer>();
+        Arrays.sort(people);        
+        for(int i : people)
+        	dq.add(i);
+        
+        while(!dq.isEmpty()) {
+        	if(dq.peekFirst()+dq.pollLast()<=limit &&!dq.isEmpty())
+        		dq.pollFirst();        	
+        	ans++;
         }
-        return result;
+        return ans;
     }
 }

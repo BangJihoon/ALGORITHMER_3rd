@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week20 - solve 네트워크연결">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week19/섬연결하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week19/섬연결하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week20/네트워크연결.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week20/네트워크연결.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week20/단속카메라.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week20/단속카메라.java" afterDir="false" />
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -452,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649429422883</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)">
+      <created>1649436918847</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1649436918847</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,7 +525,8 @@
     <MESSAGE value="week16-17 - 힙 문제 재풀이" />
     <MESSAGE value="week20 - init" />
     <MESSAGE value="week20 - solve 네트워크연결" />
-    <option name="LAST_COMMIT_MESSAGE" value="week20 - solve 네트워크연결" />
+    <MESSAGE value="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)" />
+    <option name="LAST_COMMIT_MESSAGE" value="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

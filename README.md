@@ -2,11 +2,18 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week20](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week20)
++ ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 단속카메라
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42884) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week20/단속카메라.java)
++ ✅ Programmers 백준 탐욕법 : 네트워크 연결
++ [문제보기](https://www.acmicpc.net/problem/1922) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week20/네트워크연결.java)
+
 [week19](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week19)
 + ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 구명보트
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42885) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/구명보트.java)
 + ✅ Programmers 코딩테스트 고득점 Kit - 그리디 섬 연결하기
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42861) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week19/섬연결하기.java)
+
 
 [week18](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week18)
 + ✅ Programmers 코딩테스트 고득점 Kit - 그리디 : 조이스틱

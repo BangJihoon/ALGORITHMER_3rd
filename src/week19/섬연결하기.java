@@ -44,7 +44,7 @@ public class 섬연결하기 {
         for(int i = 0; i < costs.length; i++) {
             int a = isConnect(costs[i][0]);
             int b = isConnect(costs[i][1]);
-            if(a != b ){ // 연결한적 없으면,
+            if(a != b ){ // 연결이 안되어 있으면
                 island[a] = b;      // 연결
                 res += costs[i][2]; // 비용 계산
             }
@@ -59,3 +59,7 @@ public class 섬연결하기 {
             return isConnect(island[a]); // 결국 연결이 없는 끝지점 (자기자신값을 가지는 노드) 값을 반환해줌
     }
 }
+/*
+풀이가 일반적이지 못하다.
+섬의 input값이 a <b 순서로 들어와야 이와같이 단방향 검사가 가능하다.
+* */

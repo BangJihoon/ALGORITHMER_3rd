@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week19 그리디 섬연결하기 Solve">
-      <change afterPath="$PROJECT_DIR$/src/week21/N으로표현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week21/정수삼각형.java" afterDir="false" />
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week20 - 해당주차 링크 readme 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week21/정수삼각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week21/정수삼각형.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +28,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -101,32 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wekk14.기능개발" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wekk14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="시리얼번호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week13.시리얼번호" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="조이스틱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week18.조이스틱" />
       <module name="ALGORITHMER_3rd" />
@@ -153,38 +118,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="구명보트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week19.구명보트" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="섬연결하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week19.섬연결하기" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week17.이중우선순위큐" />
       <module name="ALGORITHMER_3rd" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="네트워크연결" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week20.네트워크연결" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="단속카메라" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week20.단속카메라" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week17.체육복" />
+    <configuration name="다리를지나는트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.다리를지나는트럭" />
       <module name="ALGORITHMER_3rd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week17.*" />
+          <option name="PATTERN" value="week15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +209,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="다리를지나는트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.다리를지나는트럭" />
+    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wekk14.기능개발" />
       <module name="ALGORITHMER_3rd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week15.*" />
+          <option name="PATTERN" value="wekk14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="시리얼번호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week13.시리얼번호" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,42 +434,28 @@
       <option name="project" value="LOCAL" />
       <updated>1648137817633</updated>
     </task>
-    <task id="LOCAL-00027" summary="week17 체육복 재풀이">
-      <created>1648192352315</created>
+    <task id="LOCAL-00027" summary="week20 - init">
+      <created>1649251775982</created>
       <option name="number" value="00027" />
       <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1648192352315</updated>
+      <updated>1649251775982</updated>
     </task>
-    <task id="LOCAL-00028" summary="week17 체육복 재풀이">
-      <created>1648192861060</created>
+    <task id="LOCAL-00028" summary="week20 - solve 네트워크연결">
+      <created>1649429422883</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1648192861060</updated>
+      <updated>1649429422883</updated>
     </task>
-    <task id="LOCAL-00029" summary="week1 체육복 재풀이">
-      <created>1648514867768</created>
+    <task id="LOCAL-00029" summary="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)">
+      <created>1649436918847</created>
       <option name="number" value="00029" />
       <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1648514867768</updated>
+      <updated>1649436918847</updated>
     </task>
-    <task id="LOCAL-00030" summary="week19 그리디 init">
-      <created>1648514891361</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1648514891361</updated>
-    </task>
-    <task id="LOCAL-00031" summary="week19 그리디 구명보트 Solve">
-      <created>1648526531623</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1648526531623</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -505,7 +469,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="bang-office" />
                       </list>
                     </value>
                   </entry>
@@ -533,11 +497,6 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="b88f6de0-a954-4b1d-93a4-10ae660eec59" value="TOOL_WINDOW" />
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week12" />
@@ -558,10 +517,10 @@
     <MESSAGE value="week18 - 조이스틱 리팩토링" />
     <MESSAGE value="week18 - 큰수만들기" />
     <MESSAGE value="week16-17 - 힙 문제 재풀이" />
-    <MESSAGE value="week17 체육복 재풀이" />
-    <MESSAGE value="week19 그리디 init" />
-    <MESSAGE value="week19 그리디 구명보트 Solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="week19 그리디 구명보트 Solve" />
+    <MESSAGE value="week20 - init" />
+    <MESSAGE value="week20 - solve 네트워크연결" />
+    <MESSAGE value="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)" />
+    <option name="LAST_COMMIT_MESSAGE" value="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

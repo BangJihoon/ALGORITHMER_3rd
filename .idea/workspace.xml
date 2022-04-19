@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week19 그리디 섬연결하기 Solve">
-      <change afterPath="$PROJECT_DIR$/src/week21/N으로표현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week21/정수삼각형.java" afterDir="false" />
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week21 DP N으로표현 - 성능향상을 위해 모두 돌지않고 for문안에서 답을 검사하여 존재하는 경우 바로 종료시킴">
+      <change afterPath="$PROJECT_DIR$/src/week22/도둑질.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week22/등굣길.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
   <component name="ReaderModeSettings">
     <option name="showWarnings" value="true" />
   </component>
-  <component name="RunManager" selected="Application.HIndex">
+  <component name="RunManager" selected="Application.N으로표현">
     <configuration name="프린터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wekk14.프린터" />
       <module name="ALGORITHMER_3rd" />
@@ -94,6 +95,58 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N으로표현" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week21.N으로표현" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week17.체육복" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="다리를지나는트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week15.다리를지나는트럭" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="정수삼각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week21.정수삼각형" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,34 +284,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week17.체육복" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="다리를지나는트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.다리를지나는트럭" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N으로표현" />
         <item itemvalue="Application.디컨1" />
         <item itemvalue="Application.프린터" />
         <item itemvalue="Application.HIndex" />
@@ -491,7 +519,35 @@
       <option name="project" value="LOCAL" />
       <updated>1648526531623</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="week21 DP init">
+      <created>1649811489148</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1649811489148</updated>
+    </task>
+    <task id="LOCAL-00033" summary="week21 DP 정수삼각형 - 트리구조는 역으로 추적하는게 현명한 풀이!">
+      <created>1649813255889</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1649813255889</updated>
+    </task>
+    <task id="LOCAL-00034" summary="week21 DP N으로표현 - Set배열을 이용해 DP를 구현한 풀이를 참조 , 로직이 생각보다 어려움.">
+      <created>1649839274839</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1649839274839</updated>
+    </task>
+    <task id="LOCAL-00035" summary="week21 DP N으로표현 - 성능향상을 위해 모두 돌지않고 for문안에서 답을 검사하여 존재하는 경우 바로 종료시킴">
+      <created>1649841013705</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1649841013705</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -561,7 +617,11 @@
     <MESSAGE value="week17 체육복 재풀이" />
     <MESSAGE value="week19 그리디 init" />
     <MESSAGE value="week19 그리디 구명보트 Solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="week19 그리디 구명보트 Solve" />
+    <MESSAGE value="week21 DP init" />
+    <MESSAGE value="week21 DP 정수삼각형 - 트리구조는 역으로 추적하는게 현명한 풀이!" />
+    <MESSAGE value="week21 DP N으로표현 - Set배열을 이용해 DP를 구현한 풀이를 참조 , 로직이 생각보다 어려움." />
+    <MESSAGE value="week21 DP N으로표현 - 성능향상을 위해 모두 돌지않고 for문안에서 답을 검사하여 존재하는 경우 바로 종료시킴" />
+    <option name="LAST_COMMIT_MESSAGE" value="week21 DP N으로표현 - 성능향상을 위해 모두 돌지않고 for문안에서 답을 검사하여 존재하는 경우 바로 종료시킴" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

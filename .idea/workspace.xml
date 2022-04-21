@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week20 - 해당주차 링크 readme 추가">
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week22 - Solved 등굣길">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-03-25__1_27__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-03-25__1_27__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week21/정수삼각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week21/정수삼각형.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week22/도둑질.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week22/도둑질.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -27,207 +19,32 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="24lF1pk2wumyn2n5FBhAr4sZQhp" />
+  <component name="ProjectId" id="285PXwRGZHyr2iKbQKQoH4qssmp" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="ReaderModeSettings">
-    <option name="showWarnings" value="true" />
-  </component>
-  <component name="RunManager" selected="Application.HIndex">
-    <configuration name="프린터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wekk14.프린터" />
+  <component name="RunManager">
+    <configuration name="도둑질" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week22.도둑질" />
       <module name="ALGORITHMER_3rd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wekk14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="디컨1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week16.디컨1" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week13.HIndex" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="조이스틱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week18.조이스틱" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="큰수만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week18.큰수만들기" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이중우선순위큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week17.이중우선순위큐" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="네트워크연결" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week20.네트워크연결" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="단속카메라" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week20.단속카메라" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week20.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="더맵게" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week16.더맵게" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="디스크컨트롤러" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week16.디스크컨트롤러" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="주식가격" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.주식가격" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="다리를지나는트럭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week15.다리를지나는트럭" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="기능개발" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wekk14.기능개발" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wekk14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="시리얼번호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week13.시리얼번호" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week13.*" />
+          <option name="PATTERN" value="week22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,225 +54,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.디컨1" />
-        <item itemvalue="Application.프린터" />
-        <item itemvalue="Application.HIndex" />
+        <item itemvalue="Application.도둑질" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="" />
-      <created>1644197058601</created>
+      <changelist id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week22 - Solved 등굣길" />
+      <created>1650503530634</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644197058601</updated>
+      <updated>1650503530634</updated>
     </task>
-    <task id="LOCAL-00001" summary="week12">
-      <created>1644204555456</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1644204555456</updated>
-    </task>
-    <task id="LOCAL-00002" summary="week13">
-      <created>1644830509674</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1644830509674</updated>
-    </task>
-    <task id="LOCAL-00003" summary="init">
-      <created>1644907929105</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1644907929106</updated>
-    </task>
-    <task id="LOCAL-00004" summary="week1">
-      <created>1644907965719</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1644907965719</updated>
-    </task>
-    <task id="LOCAL-00005" summary="week1">
-      <created>1644907972611</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1644907972611</updated>
-    </task>
-    <task id="LOCAL-00006" summary="week2">
-      <created>1644908171895</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1644908171895</updated>
-    </task>
-    <task id="LOCAL-00007" summary="week2">
-      <created>1644908182582</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1644908182582</updated>
-    </task>
-    <task id="LOCAL-00008" summary="설정파일 추가">
-      <created>1644916941389</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1644916941389</updated>
-    </task>
-    <task id="LOCAL-00009" summary="설정파일 추가">
-      <created>1644917149814</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1644917149814</updated>
-    </task>
-    <task id="LOCAL-00010" summary="정렬 공부">
-      <created>1644996151569</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1644996151569</updated>
-    </task>
-    <task id="LOCAL-00011" summary="week13">
-      <created>1645070961217</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1645070961217</updated>
-    </task>
-    <task id="LOCAL-00012" summary="week13">
-      <created>1645071158288</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1645071158288</updated>
-    </task>
-    <task id="LOCAL-00013" summary="week13">
-      <created>1645078234318</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1645078234318</updated>
-    </task>
-    <task id="LOCAL-00014" summary="week15 - 주식가격 (완전탐색, Stack) ★★★">
-      <created>1646290859001</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1646290859001</updated>
-    </task>
-    <task id="LOCAL-00015" summary="week15 - xml무시좀 해줘라">
-      <created>1646291398867</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1646291398867</updated>
-    </task>
-    <task id="LOCAL-00016" summary="week15 - md 수정">
-      <created>1646291602120</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1646291602120</updated>
-    </task>
-    <task id="LOCAL-00017" summary="week15 - 설정파일들도 올려~~">
-      <created>1646291660399</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1646291660399</updated>
-    </task>
-    <task id="LOCAL-00018" summary="week16 - 더맵게는 쉬웠지만, 디컨은 바빠서 아직 못품..">
-      <created>1647174409860</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1647174409860</updated>
-    </task>
-    <task id="LOCAL-00019" summary="week16 - readme수정">
-      <created>1647174594444</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1647174594444</updated>
-    </task>
-    <task id="LOCAL-00020" summary="week16 - 더 맵게 리팩토링">
-      <created>1647178952950</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1647178952950</updated>
-    </task>
-    <task id="LOCAL-00021" summary="week17 - 일단 올려ㅠㅠ">
-      <created>1647782930253</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1647782930253</updated>
-    </task>
-    <task id="LOCAL-00022" summary="week18 - 조이스틱 리팩토링">
-      <created>1648035434416</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1648035434416</updated>
-    </task>
-    <task id="LOCAL-00023" summary="week18 - 큰수만들기">
-      <created>1648037363730</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1648037363730</updated>
-    </task>
-    <task id="LOCAL-00024" summary="week16-17 - 힙 문제 재풀이">
-      <created>1648132680216</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1648132680216</updated>
-    </task>
-    <task id="LOCAL-00025" summary="week16-17 - 힙 문제 재풀이">
-      <created>1648137803974</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1648137803974</updated>
-    </task>
-    <task id="LOCAL-00026" summary="week16-17 - 힙 문제 재풀이">
-      <created>1648137817633</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1648137817633</updated>
-    </task>
-    <task id="LOCAL-00027" summary="week20 - init">
-      <created>1649251775982</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1649251775982</updated>
-    </task>
-    <task id="LOCAL-00028" summary="week20 - solve 네트워크연결">
-      <created>1649429422883</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1649429422883</updated>
-    </task>
-    <task id="LOCAL-00029" summary="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)">
-      <created>1649436918847</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1649436918847</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -463,68 +74,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="bang-office" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="b88f6de0-a954-4b1d-93a4-10ae660eec59">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="bang-office" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="week12" />
-    <MESSAGE value="init" />
-    <MESSAGE value="week1" />
-    <MESSAGE value="week2" />
-    <MESSAGE value="설정파일 추가" />
-    <MESSAGE value="정렬 공부" />
-    <MESSAGE value="week13" />
-    <MESSAGE value="week15 - 주식가격 (완전탐색, Stack) ★★★" />
-    <MESSAGE value="week15 - xml무시좀 해줘라" />
-    <MESSAGE value="week15 - md 수정" />
-    <MESSAGE value="week15 - 설정파일들도 올려~~" />
-    <MESSAGE value="week16 - 더맵게는 쉬웠지만, 디컨은 바빠서 아직 못품.." />
-    <MESSAGE value="week16 - readme수정" />
-    <MESSAGE value="week16 - 더 맵게 리팩토링" />
-    <MESSAGE value="week17 - 일단 올려ㅠㅠ" />
-    <MESSAGE value="week18 - 조이스틱 리팩토링" />
-    <MESSAGE value="week18 - 큰수만들기" />
-    <MESSAGE value="week16-17 - 힙 문제 재풀이" />
-    <MESSAGE value="week20 - init" />
-    <MESSAGE value="week20 - solve 네트워크연결" />
-    <MESSAGE value="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)" />
-    <option name="LAST_COMMIT_MESSAGE" value="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <MESSAGE value="week22 - Solved 등굣길" />
+    <option name="LAST_COMMIT_MESSAGE" value="week22 - Solved 등굣길" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ALGORITHMER_3rd$K.ic" NAME="K번째수 Coverage Results" MODIFIED="1644198300802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

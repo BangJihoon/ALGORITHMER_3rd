@@ -2,24 +2,16 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week23](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week23)
++ ✅ Programmers 코딩테스트 고득점 Kit - 이분탐색: 입국심사
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43238) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week23/입국심사.java)
++ ✅ Programmers 코딩테스트 고득점 Kit - 이분탐색: 징검다리
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43236) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week23/징검다리.java)
 
 [week22](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week22)
 + ✅ Programmers 코딩테스트 고득점 Kit - 동적계획법(Dynamic Programming) : 등굣길
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42898) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week22/등굣길.java)
 + ✅ Programmers 코딩테스트 고득점 Kit - 동적계획법(Dynamic Programming): 도둑질
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42897) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week22/도둑질.java)
-
-[week21](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week21)
-+ ✅ Programmers 코딩테스트 고득점 Kit - 동적계획법(Dynamic Programming): N으로 표현
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42895) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week21/N으로표현.java)
-+ ✅ Programmers 코딩테스트 고득점 Kit - 동적계획법(Dynamic Programming): 정수 삼각형
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43105) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week21/정수삼각형.java)
-
-
-[week20](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week20)
-+ ✅ Programmers 코딩테스트 고득점 Kit - 동적계획법 : 등굣길
-+ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42898) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week22/등굣길.java)
-+ ✅ Programmers 코딩테스트 고득점 Kit - 동적계획법 : 도둑질
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/42897) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week22/도둑질.java)
 
 [week21](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week21)

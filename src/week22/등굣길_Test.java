@@ -23,11 +23,11 @@ package week22;
 테스트 9 〉	통과 (0.54ms, 52.5MB)
 테스트 10 〉	통과 (0.53ms, 51.6MB)
  */
-public class 등굣길 {
+public class 등굣길_Test {
     public static void main(String[] args) {
-        int m = 100;
-        int n = 100;
-        int[][] puddles = {};
+        int m = 4;
+        int n = 3;
+        int[][] puddles = {{2,2}};
         System.out.println(solution(m, n, puddles));
     }
     public static int solution(int m, int n, int[][] puddles) {
@@ -36,14 +36,14 @@ public class 등굣길 {
         for (int[] puddle : puddles)
             arr[puddle[0]][puddle[1]] = -1;
         // 경로 Dp
-        arr[1][1] = 1;
+        arr[1][0] = 1;
         for (int i = 1; i <= m; i++) {
             for (int j = 1; j <= n; j++) {
                 if(arr[i][j]==-1) {
                     arr[i][j]=0;
                     continue;
                 }
-               arr[i][j] += (arr[i-1][j] + arr[i][j-1]) %1000000007; // + 가 빠져도 되야하는게 아닌가??... 의문이다
+               arr[i][j] = (arr[i-1][j] + arr[i][j-1]);
             }
         }
         return arr[m][n];

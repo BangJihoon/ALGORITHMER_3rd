@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week23 - 이분탐색 readme추가">
-      <change afterPath="$PROJECT_DIR$/src/week22/등굣길_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week23/입국심사.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week23/징검다리.java" afterDir="false" />
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week23 - Solved 입국심사 : 최솟값 찾기는 right쪽에 =을 넣는다.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week22/등굣길.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week22/등굣길.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week23/입국심사.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week23/입국심사.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week23/징검다리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week23/징검다리.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <recent name="week22" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.등굣길_Test">
+  <component name="RunManager" selected="Application.입국심사">
     <configuration name="프린터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wekk14.프린터" />
       <module name="ALGORITHMER_3rd" />
@@ -100,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week13.HIndex" />
+    <configuration name="입국심사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week23.입국심사" />
       <module name="ALGORITHMER_3rd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="week23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.입국심사" />
         <item itemvalue="Application.등굣길_Test" />
         <item itemvalue="Application.등굣길" />
         <item itemvalue="Application.디컨1" />
         <item itemvalue="Application.프린터" />
-        <item itemvalue="Application.HIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650811055196</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="week23 - init 이분탐색">
+      <created>1650985115596</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1650985115596</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +569,10 @@
     <MESSAGE value="week20 - solve 네트워크연결" />
     <MESSAGE value="week20 - solve 네트워크연결, 단속카메라 (크루스칼 -유니온파인드)" />
     <MESSAGE value="week23 - 이분탐색 readme추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="week23 - 이분탐색 readme추가" />
+    <MESSAGE value="week23 - 이분탐색 문제 init" />
+    <MESSAGE value="week23 - init 이분탐색" />
+    <MESSAGE value="week23 - Solved 입국심사 : 최솟값 찾기는 right쪽에 =을 넣는다." />
+    <option name="LAST_COMMIT_MESSAGE" value="week23 - Solved 입국심사 : 최솟값 찾기는 right쪽에 =을 넣는다." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

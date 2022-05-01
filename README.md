@@ -2,6 +2,12 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week24](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week24)
++ ✅ ✅ BOJ - 이분탐색: 팰린드롬 만들기
++ [문제보기](https://www.acmicpc.net/problem/1695) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week24/팰린드롬만들기.java) 
++ ✅ BOJ - 이분탐색: 피자판매
++ [문제보기](https://www.acmicpc.net/problem/2632) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week24/피자판매.java)
+
 [week23](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week23)
 + ✅ Programmers 코딩테스트 고득점 Kit - 이분탐색: 입국심사
 + [문제보기](https://programmers.co.kr/learn/courses/30/lessons/43238) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week23/입국심사.java)

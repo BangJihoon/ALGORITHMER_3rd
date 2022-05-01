@@ -5,9 +5,9 @@ import java.util.Collections;
 
 public class 징검다리 {
     public static void main(String[] args) {
-        int distance=25;
-        int[] rocks={2,14,11,21,17};
-        int n = 2;
+        int distance=18;
+        int[] rocks={2, 8, 9, 10, 11, 12, 13};
+        int n = 6;
         System.out.println(solution(distance,rocks,n));
     }
     /*

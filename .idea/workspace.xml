@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week22 - Solved 징검다리 (궁금1 : 왜 비교할때 = 을 포함하면 안되는가?)">
-      <change afterPath="$PROJECT_DIR$/src/week24/팰린드롬만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week24/피자판매.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="60e52491-9c8b-4c5a-9ff8-ca7cb60a7319" name="Changes" comment="week24 - init 이분탐색 추가문제">
+      <change afterPath="$PROJECT_DIR$/src/week24/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week23/징검다리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week23/징검다리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week24/피자판매.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week24/피자판매.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.징검다리">
+  <component name="RunManager" selected="Application.피자판매">
     <configuration name="프린터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="wekk14.프린터" />
       <module name="ALGORITHMER_3rd" />
@@ -69,6 +66,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="피자판매" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week24.피자판매" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="입국심사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week23.입국심사" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,6 +203,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="피자판매" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week24.피자판매" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="징검다리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week23.징검다리" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="조이스틱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week18.조이스틱" />
       <module name="ALGORITHMER_3rd" />
@@ -258,19 +307,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="입국심사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week23.입국심사" />
-      <module name="ALGORITHMER_3rd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="등굣길_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week22.등굣길_Test" />
       <module name="ALGORITHMER_3rd" />
@@ -284,9 +320,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week24.test" />
+      <module name="ALGORITHMER_3rd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.징검다리" />
+        <item itemvalue="Application.피자판매" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.등굣길_Test" />
         <item itemvalue="Application.디컨1" />
         <item itemvalue="Application.프린터" />
@@ -309,12 +359,12 @@
       <option name="project" value="LOCAL" />
       <updated>1651124410994</updated>
     </task>
-    <task id="LOCAL-00002" summary="week13">
-      <created>1644830509674</created>
+    <task id="LOCAL-00002" summary="week24 - init 이분탐색 추가문제">
+      <created>1651464560763</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1644830509674</updated>
+      <updated>1651464560763</updated>
     </task>
     <task id="LOCAL-00003" summary="init">
       <created>1644907929105</created>
@@ -498,7 +548,7 @@
       <option name="project" value="LOCAL" />
       <updated>1649429422883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +594,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week22 - Solved 등굣길" />
     <MESSAGE value="week22 - Solved 징검다리 (궁금1 : 왜 비교할때 = 을 포함하면 안되는가?)" />
-    <option name="LAST_COMMIT_MESSAGE" value="week22 - Solved 징검다리 (궁금1 : 왜 비교할때 = 을 포함하면 안되는가?)" />
+    <MESSAGE value="week24 - init 이분탐색 추가문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="week24 - init 이분탐색 추가문제" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ALGORITHMER_3rd$K.ic" NAME="K번째수 Coverage Results" MODIFIED="1644198300802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

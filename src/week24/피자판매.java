@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 
 public class 피자판매 {
     public static void main(String[] args) throws IOException {
+        // 1.입력
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int k = Integer.parseInt(br.readLine()); // 구하고자 하는 값
         String[] x =  br.readLine().split(" ");
@@ -13,53 +14,51 @@ public class 피자판매 {
         int n = Integer.parseInt(x[1]);
         int[] arrA = new int[m];
         int[] arrB = new int[n];
-        for (int i = 0; i < m; i++)
+        int sumA = 0;
+        int sumB = 0;
+        for (int i = 0; i < m; i++) {
             arrA[i] = Integer.parseInt(br.readLine());
-        for (int i = 0; i < n; i++)
-            arrB[i] = Integer.parseInt(br.readLine());
-        // 이분탐색으로 못하겠다ㅠ 경우의수로 풀자...
-        int[] DP = new int[k+1];
-        DP[0]++;
-        for (int i = 0; i < m; i++){
-            if(arrA[i]<=k){ // 입력받은 A에서 k 이하의 수를 count
-                int prev = arrA[i];
-                DP[prev]++;
-                int j = 0;
-                while(++j <= m && prev + arrA[(i+j)%m] <= k){ // 이어지는 값의 조합들에서 만족하는 경우도 count
-                    prev += arrA[(i+j)%m];
-                    DP[prev]++;
-                    j++;
-                }
-                if(j>m)
-                    DP[prev]=1;
-            }
+            sumA +=arrA[i];
         }
-        int[] DP2 = new int[k+1];
-        DP2[0] = 1;
         for (int i = 0; i < n; i++) {
-            if(arrB[i]<=k){ // 입력받은 A에서 k 이하의 수를 count
-                int prev = arrB[i];
-                DP2[prev]++;
-                int j = 0;
-                while(++j <= n && prev + arrB[(i+j)%n] <= k){ // 이어지는 값의 조합들에서 만족하는 경우도 count
-                    prev += arrB[(i+j)%n];
-                    DP2[prev]++;
-                    j++;
-                }
-                if(j>n)
-                    DP2[prev]=1;
-
-            }
+            arrB[i] = Integer.parseInt(br.readLine());
+            sumB +=arrB[i];
         }
-//        for (int i = 0; i < DP2.length; i++) {
-//            System.out.println("DP[i] = " + DP[i] +" " +DP2[i]);
-//        }
+        br.close();
+        // 경우의 수 count
+        sumA = sumA > k ? 0 : sumA;
+        sumB = sumB > k ? 0 : sumB;
+        // 경우의수로 풀자...
+        int[] DP1 = new int[k+1];
+        int[] DP2 = new int[k+1];
+        // 아무것도 선택 안하는 경우는 1번
+        DP1[0] = 1;
+        DP2[0] = 1;
+        // 개수 count
+        count_pieces(DP1,arrA,k);
+        count_pieces(DP2,arrB,k);
+        // 전체 다 선택하는 경우도 1번
+        DP1[sumA]=1;
+        DP2[sumB]=1;
+
         // 출력
         int res=0;
         for (int i = 0; i <= k; i++)
-            res += DP[i] * DP2[k-i];
+            res += DP1[i] * DP2[k-i];
 
         System.out.println(res);
         br.close();
+    }
+    static void count_pieces(int[] DP, int[] arr, int k){
+        int len = arr.length;
+        for (int i = 0; i < len; i++) {
+            int sum = 0;
+            for (int j = 0; j < len-1; j++) { // 맨끝까지 돌지 말것
+                if(arr[(i+j)%len] + sum > k)
+                    break;
+                sum += arr[(i+j)%len];
+                DP[sum]++;
+            }
+        }
     }
 }

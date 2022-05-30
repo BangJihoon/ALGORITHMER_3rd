@@ -1,6 +1,6 @@
- # 알고리즈머 3기 (2021.11 ~ )
+ # 알고리즈머 3기 (2021.11 ~ 2022.05.30 )
 
-매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
+약 6개월간 매주 함께 알고리즘을 공부하는 소모임, 문제풀이
 
 [week26](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week26)
 + ✅ Programmers 코딩테스트 고득점 Kit - 가장 먼 노드

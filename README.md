@@ -2,9 +2,21 @@
 
 매주 함께 알고리즘을 공부하는 소모임, 문제풀이 코드공유 공간
 
+[week26](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week26)
++ ✅ Programmers 코딩테스트 고득점 Kit - 가장 먼 노드
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/49189) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week26/가장먼노드.java) 
++ ✅ Programmers 코딩테스트 고득점 Kit- 순위
++ [문제보기](https://programmers.co.kr/learn/courses/30/lessons/49191) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week26/순위.java)
+
+[week25](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week25)
++ ✅ BOJ - 이분탐색: 나무 자르기
++ [문제보기](https://www.acmicpc.net/problem/2805) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week25/나무자르기.java)
++ ✅ BOJ - 이분탐색: 공유기 설치
++ [문제보기](https://www.acmicpc.net/problem/2110) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week25/공유기설치.java)
+
 [week24](https://github.com/bangbangu4/ALGORITHMER_3rd/tree/master/src/week24)
 + ✅ ✅ BOJ - 이분탐색: 팰린드롬 만들기
-+ [문제보기](https://www.acmicpc.net/problem/1695) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week24/팰린드롬만들기.java) 
++ [문제보기](https://www.acmicpc.net/problem/1695) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week24/팰린드롬만들기.java)
 + ✅ BOJ - 이분탐색: 피자판매
 + [문제보기](https://www.acmicpc.net/problem/2632) / [풀이보기](https://github.com/bangbangu4/ALGORITHMER_3rd/blob/main/src/week24/피자판매.java)
 
